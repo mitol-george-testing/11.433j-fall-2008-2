@@ -1,0 +1,42 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Business",
+      "Real Estate"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Macroeconomics"
+    ],
+    [
+      "Social Science",
+      "Urban Studies"
+    ],
+    [
+      "Social Science",
+      "Public Administration"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "3dea7173-079f-6475-dad6-cc52076e4f15"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Real Estate Economics",
+  "course_description": "This course, offered by the [MIT Center for Real Estate](http://web.mit.edu/cre/), focuses on developing an understanding of the macroeconomic factors that shape and influence markets for real property. We will develop the theory of land markets and locational choice. The material covered includes studies of changing economic activities, demographic trends, transportation and local government behavior as they affect real estate.\n",
+  "department_numbers": [
+    "11",
+    "15"
+  ],
+  "extra_course_numbers": "15.021J",
+  "primary_course_number": "11.433J",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
